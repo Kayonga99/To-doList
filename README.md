@@ -1,73 +1,75 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
 
-> Description the project.
+# To-do list - interactive list
 
+> In this project, you will see a simple HTML list of "To Do tasks". This simple web page was built using webpack and served by a webpack dev server.
+
+> Everything you need to start using webpack is all setup and ready to use just run the following commands to get started:
+
+Get started by copying and pasting the following in your terminal: 
+
+- 1
+```
+npm install
+```
+
+- 2
+
+ This will generate a dist folder you never edit what is in there.
+```
+npm run build
+```
+
+- 3
+
+```
+npm start
+```
+The browser will open and you should see this text : "Hello webpack!", if this is not the case please stay calm and simply open your browser and paste this.
+```
+http://localhost:3000
+```
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
+- HTML
+- HTML Webpack Plugin
+- CSS
+- JavaScript / ES6
+- Webpack
 
 ### Install
 
-### Usage
+Clone the repository
+https://github.com/Kayonga99/ToDo-List
+npm . init -y
+npm install
 
-### Run tests
+## Run tests
 
-### Deployment
+npx stylelint "\*_/_.{css,scss}"
+npx hint .
+npx eslint .
 
-
-
+- Web Browser
+- [Visual Studio code](https://code.visualstudio.com/)
+[Live demo](https://tiny-swan-e24fe0.netlify.app/)
 ## Authors
 
-👤 **Author1**
+👤 ## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Kayonga Chiteta**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@Kayonga99](https://github.com/Kayonga99)
+- Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
+- LinkedIn: [Kkayonga Chiteta](https://www.linkedin.com/in/kayonga-chiteta-776949227)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
